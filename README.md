@@ -1,1 +1,3 @@
 # M
+Hello World, getting to know GitHub here.
+What a system it is. Very different from what I'm used to...
